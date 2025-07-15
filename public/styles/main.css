@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+
+h1{
+    font-family: "MonteCarlo", cursive;
+    font-weight: 400;
+    font-style: normal;font-family: "Edu NSW ACT Cursive", cursive;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
